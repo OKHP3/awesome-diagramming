@@ -27,6 +27,8 @@ Examples - [Link](https://kroki.io/examples.html)
 
 * [Mermaid](https://mermaid-js.github.io/mermaid/) (Free, Open Source, Diagram as code, Ease of use - Easy, Visual Appearance - Modern).  
 Examples - [Link](https://mermaid-js.github.io/mermaid/#/examples)
+* [Mermaid Theme Builder](https://github.com/OKHP3/mermaid-theme-builder) (Free, Open Source, Mermaid governance layer, Ease of use - Easy, Visual Appearance - Modern).  
+Brand palette enforcement, renderer-aware export (5 formats), 31 diagram families, SKILL.md agent skill. Live - [Link](https://okhp3.github.io/mermaid-theme-builder/)
 
 * [Eraser.io](https://www.eraser.io/) (Freemium, Closed Source, Hand drawn, Ease of use - Easy, Visual Appearance - Modern).  
 Examples - [Link](https://www.eraser.io/examples)
